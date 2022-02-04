@@ -1,2 +1,4 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
+Dreamwave is learning Git.
+He found it very interesting.
+He want to learn more about it.
+
